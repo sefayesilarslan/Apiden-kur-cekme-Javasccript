@@ -1,0 +1,1 @@
+# Apiden-kur-cekme-Javasccript
